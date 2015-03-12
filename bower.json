@@ -1,0 +1,29 @@
+{
+  "name": "pgbotgraph",
+  "version": "0.1.0",
+  "authors": [
+    "Matthew Radcliffe <mradcliffe@softpixel.com>"
+  ],
+  "description": "Graph results from http://d8pgbot.erwanderbar.de/",
+  "main": "dist/pgbotgraph.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "drupal",
+    "d8pgbot"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.5",
+    "jquery": "~2.1.3"
+  }
+}

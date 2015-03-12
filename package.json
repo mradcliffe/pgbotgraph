@@ -1,0 +1,22 @@
+{
+  "name": "pgbotgraph",
+  "version": "0.1.0",
+  "description": "Generate graph on http://d8pgbot.erwanderbar.de/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "drupal",
+    "d8pgbot"
+  ],
+  "author": "Matthew Radcliffe <mradcliffe@softpixel.com>",
+  "license": "MIT",
+  "private": "true",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-uglify": "^0.8.0"
+  }
+}
